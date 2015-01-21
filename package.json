@@ -1,0 +1,28 @@
+{
+  "name": "react-stylify",
+  "version": "0.0.0",
+  "description": "Syntax helpers for React Style",
+  "keywords": [
+    "browserify",
+    "transform",
+    "browserify-transform",
+    "react",
+    "react-style",
+    "syntax"
+  ],
+  "author": "Kyo Ago @kyo_ago",
+  "homepage": "https://github.com/kyo-ago/react-stylify",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kyo-ago/react-stylify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kyo-ago/react-stylify/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react-style-syntax": "git+https://github.com/js-next/react-style-syntax.git",
+    "through2": "latest"
+  },
+  "main": "index.js"
+}
