@@ -4,7 +4,7 @@
 
 ## Installation
 
-    $ npm install --save-dev git://github.com/kyo-ago/react-stylify.git
+    $ npm install --save-dev git://github.com/chatwork/react-stylify.git
 
 ## Usage
 

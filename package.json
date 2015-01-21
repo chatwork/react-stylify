@@ -11,13 +11,13 @@
     "syntax"
   ],
   "author": "Kyo Ago @kyo_ago",
-  "homepage": "https://github.com/kyo-ago/react-stylify",
+  "homepage": "https://github.com/chatwork/react-stylify",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kyo-ago/react-stylify.git"
+    "url": "git://github.com/chatwork/react-stylify.git"
   },
   "bugs": {
-    "url": "https://github.com/kyo-ago/react-stylify/issues"
+    "url": "https://github.com/chatwork/react-stylify/issues"
   },
   "license": "MIT",
   "dependencies": {
