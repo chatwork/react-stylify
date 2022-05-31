@@ -1,3 +1,5 @@
+This repository has been discontinued. The reason is that react-style has already died.
+
 # react-stylify
 
 [js-next/react-style](https://github.com/js-next/react-style) [browserify](http://browserify.org/) plugin
